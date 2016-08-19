@@ -1,5 +1,0 @@
-modalID: 4
-title: Projecting Religious Switching
-img: rel_belong.png
-category: Data Science
-description: This project uses information from general social surveys to project changes in religious affiliation in the United States. We use both multivariate and univariate Bayesian models to generate posterior predictive data to project mortality, births, conversions, and apostasies for major religions in the United States. I analyzed the data and summarized the findings and my colleague Cyrus Schleifert placed in in the academic literature. The image above won a best poster award at the Population Association of American meeting in 2016.
