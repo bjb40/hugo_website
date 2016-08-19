@@ -1,9 +1,9 @@
 # Site settings
-baseurl = "http://my-awesome-site.com/"
+baseurl = "http://brycebartlett.com/"
 languageCode = "en-us"
 title = "Bryce Bartlett"
 theme = "freelance-mod"
-
+draft = false
 
 [params]
 
