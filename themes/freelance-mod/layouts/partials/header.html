@@ -1,0 +1,23 @@
+{{ "<!-- Header -->" | safeHTML }}
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-responsive" src="img/{{ with .Site.Params.header.image }}{{ . }}{{ else }}profile.png{{ end }}" alt="">
+		</div>
+		<div class="col-md-6">
+		<span class="intro-text">
+                    <p class="name">{{ with .Site.Params.header.name }}{{ . }}{{ end }}</p>
+                </span>
+
+		</div>
+		<div class="col-md-12">
+		  <p class="intro-text">
+                    <span class="skills">{{ with .Site.Params.header.subtitle }}{{ . }}{{ end }}</span>
+		    </p>
+		</div>
+		</div>
+            </div>
+        </div>
+    </div>
+</header>

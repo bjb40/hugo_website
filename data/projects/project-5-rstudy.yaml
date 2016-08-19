@@ -1,0 +1,5 @@
+modalID: 5
+title: Recessions and Happiness
+img: rstudy.png
+category: Data Science, Health
+description: Does experiencing a recession in young adulthood impact happiness later in life? Some social theories strongly suggest it should. Recessions in young adulthood making finding a job and getting started in life harder, and having a hard time in young adulthood might make someone more pessimistic about the future, or it might make someone more satisfied with less. In this study, I answer the question by combining pooled cross-sections and panel data from a number of general social surveys to answer the question with economic data from the Bureau of Labor Statistics. I find, as pictured above, that experiencing a short recession is associated with more happiness, but experiencing a longer recession is associated with less happiness, even decades later.

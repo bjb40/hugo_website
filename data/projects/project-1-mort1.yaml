@@ -1,0 +1,5 @@
+modalID: 1
+title: New Ways to Die in the Age of Biomedicalization
+img: mort1.png
+category: Data Science; Health; Law
+description: In 1999, the United States changed the way it assigned causes of death to individuals. This study analyzes the impact of that change. Using data from 23 million individual death certificates reported to the Centers for Disease Control, I estimated a series of Bayesian Hierarchical Models and drew posterior predictive data to summarize the findings. The image above shows that the change erased a decline in the proportion of acute conditions (like pneumonia) relative to chronic conditions (like heart attacks). This shows how important it is to take into account procedural changes when analyzing apparent changes in population health. The paper for this work is currently under review.
