@@ -1,9 +1,9 @@
 # Site settings
-baseurl = "http://my-awesome-site.com/"
+baseurl = "http://brycebartlett.com/"
 languageCode = "en-us"
 title = "Bryce Bartlett"
 theme = "freelance-mod"
-
+draft = false
 
 [params]
 
@@ -79,4 +79,6 @@ theme = "freelance-mod"
                 icon = "fa-linkedin"
                 link=  "//www.linkedin.com/in/bryce-bartlett-0980822"
 
-
+         [[params.footer.social.networks]]
+                icon = "fa-user"
+                link=  "//ssrn.com/author=914650"
