@@ -5,6 +5,8 @@ title = "Bryce Bartlett"
 theme = "freelance-mod"
 draft = false
 
+ignoreFiles = [ "Thumbs.db$" ]
+
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for

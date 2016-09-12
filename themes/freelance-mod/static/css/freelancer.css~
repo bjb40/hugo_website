@@ -200,7 +200,7 @@ section.success p{
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    opacity: .75;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -214,8 +214,13 @@ section.success p{
     color: #fff;
 }
 
+
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
+}
+
+.imgcontainer {
+    height:250px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
@@ -247,7 +252,7 @@ section.success p{
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #746334;
     background: #fff;
 }
 
@@ -300,7 +305,7 @@ section.success p{
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #BFCEFF;
 }
 
 form .row:first-child .floating-label-form-group {
