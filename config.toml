@@ -73,9 +73,6 @@ ignoreFiles = [ "Thumbs.db$" ]
             # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
             # for more icons. The icons are represented by their corresponding
             # CSS class.
-            [[params.footer.social.networks]]
-                icon = "fa-github"
-                link = "//github.com/bjb40"
 
             [[params.footer.social.networks]]
                 icon = "fa-linkedin"
@@ -84,3 +81,7 @@ ignoreFiles = [ "Thumbs.db$" ]
          [[params.footer.social.networks]]
                 icon = "fa-user"
                 link=  "//ssrn.com/author=914650"
+
+            [[params.footer.social.networks]]
+                icon = "fa-github"
+                link = "//github.com/bjb40"
