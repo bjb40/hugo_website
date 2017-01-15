@@ -1,0 +1,7 @@
+modalID: 4
+title: Dynamic Associations of Network Isolation and Smoking Behavior
+img: cig_iso.png
+category: Networks; Health
+description: Isolated adolescents have higher risks of depression, suicide, and substance abuse. However, researchers have found mixed results for isolation and smoking use. This study (1) separates isolation into three types, withdrawn isolates, avoided isolates, and the externally oriented; and (2) tracks associations of these isolation types and cigarette use across grades. I developed and implemented a four-dimensional, multivariate autoregressive latent trajectory model (a type of time-series structural equation model) and assisted my coauthors in writing the paper. We find that avoided isolation decreases odds of subsequent cigarette use, and cigarette use increases the odds of withdrawn isolation.  [Download the infographic](img/portfolio/cig_iso.png) or [read a draft of the paper](https://osf.io/5nfx7/)
+
+

@@ -1,5 +1,0 @@
-modalID: 3
-title: Malpractice and Complications of Medical Care
-img: malpractice.png
-category: Data Science, Law
-description: This study compares the relationship between paid malpractice claims by state, and deaths due to medical complications as reported to the Centers for Disease Control. I find that fewer deaths from complications lead to fewer paid claims in a state. In addition, I find that repeated increases in medical malpractice claims lead to more deaths from complications years later. This is consistent with concerns of defensive medicine, where physicians change their treatment practices to minimize malpractice risk, instead of maximize patient health.
