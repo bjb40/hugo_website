@@ -13,7 +13,7 @@
 		</div>
 		<div class="col-md-12">
 		  <p class="intro-text">
-                    <span class="skills">{{ with .Site.Params.header.subtitle }}{{ . }}{{ end }}</span>
+                    <span class="skills">{{ with .Site.Params.header.subtitle | safeHTML }}{{ . }}{{ end }}</span>
 		    </p>
 		</div>
 		</div>

@@ -38,7 +38,7 @@ ignoreFiles = [ "Thumbs.db$" ]
         # Copy your own image into './static/img/'' if you wish
         image = "head1.jpg"
         name = "Bryce Bartlett"
-        subtitle = "Health * Data Science * Law"
+        subtitle = "Health  &nbsp;&bull;&nbsp;  Data &nbsp;&bull;&nbsp;  Law"
 
 
     [params.portfolio]
@@ -57,8 +57,8 @@ ignoreFiles = [ "Thumbs.db$" ]
     [params.about]
         title = "About"
         
-        left = "I am a PhD Candidate at Duke University, affiliated with the [Sociology Department](http://sociology.duke.edu) and two interdisciplinary centers: the [Social Science Research Institute](https://ssri.duke.edu/) and the [Duke Population Research Institute](https://dupri.duke.edu/). My research is supported by an NIA training grant."
-        right = "I use data to explore the changes in populations and population health. I am especially interested how law and policy impact these changes. Download a copy of my cv [here](cv/cv.pdf), and explore my recent work below."
+        right = "I am a PhD Candidate at Duke University, affiliated with the [Sociology Department](http://sociology.duke.edu) and two interdisciplinary centers: the [Social Science Research Institute](https://ssri.duke.edu/) and the [Duke Population Research Institute](https://dupri.duke.edu/). My research is supported by an NIA training grant."
+        left = "I use statistics and data science to explore the changes in populations and population health. I am especially interested how law and policy impact these changes. Download a copy of my cv [here](cv/cv.pdf), and explore my recent work below."
 
 
 
