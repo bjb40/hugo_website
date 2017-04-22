@@ -15,7 +15,7 @@ ignoreFiles = [ "Thumbs.db$" ]
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Bryce Bartlett"
-    description = "test description"
+    description = "Personal website for Bryce Bartlett, Duke University. Updates on current work in methods, law, and health."
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -70,7 +70,7 @@ ignoreFiles = [ "Thumbs.db$" ]
 
         [params.footer.social]
             title = "Social Media"
-            # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+            # All icons using Fontawesome's icon font. Look at fontawesome.github.io/Font-Awesome/icons/
             # for more icons. The icons are represented by their corresponding
             # CSS class.
 
@@ -85,3 +85,8 @@ ignoreFiles = [ "Thumbs.db$" ]
             [[params.footer.social.networks]]
                 icon = "fa-github"
                 link = "//github.com/bjb40"
+
+
+           [[params.footer.social.networks]]
+                icon = "fa-twitter"
+                link = "//twitter.com/bjb775"
