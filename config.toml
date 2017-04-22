@@ -46,7 +46,7 @@ ignoreFiles = [ "Thumbs.db$" ]
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Recent Work"
+        title = "Research"
 
         [params.portfolio.modal]
             
@@ -74,7 +74,7 @@ ignoreFiles = [ "Thumbs.db$" ]
             # for more icons. The icons are represented by their corresponding
             # CSS class.
 
-            [[params.footer.social.networks]]
+         [[params.footer.social.networks]]
                 icon = "fa-linkedin"
                 link=  "//www.linkedin.com/in/bryce-bartlett-0980822"
 
@@ -82,11 +82,17 @@ ignoreFiles = [ "Thumbs.db$" ]
                 icon = "fa-user"
                 link=  "//ssrn.com/author=914650"
 
-            [[params.footer.social.networks]]
+         [[params.footer.social.networks]]
+                icon = "fa-spinner"
+                link = "//osf.io/qce7s"
+
+         [[params.footer.social.networks]]
                 icon = "fa-github"
                 link = "//github.com/bjb40"
 
 
-           [[params.footer.social.networks]]
+         [[params.footer.social.networks]]
                 icon = "fa-twitter"
                 link = "//twitter.com/bjb775"
+
+
