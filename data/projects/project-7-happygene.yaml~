@@ -1,0 +1,8 @@
+modalID: 7
+title: Social Trigger: Gene x Environment
+img: happy_gene.png
+date: 2018
+journal: Work-in-Progress
+journalLink: "https://osf.io/bp8na/"
+category: Biology and Social Science 
+description: This project rose out of my work at Duke's Biodemography of Aging Research Unit (BARU). Using the Health and Retirement Study (HRS) waves 2-12 (1993-2015; 83,233 observations for 9,947 individuals), we test gene-by-environment associations with depressive symptoms. We measure the economic environment directly by labor force changes (retirement and unemployment), and indirectly by regional unemployment rates. We use individual fixed effect models to test whether changing economic climate enhances gene-environment associations (social trigger) or whether they diminish gene-environment associations (social push). We find evidence for both processes: gene-by-environment associations with retirement diminish over time, but gene-by-environment associations with regional unemployment rates rise over time. [Read an extended abstract](https://osf.io/8z39y/).
